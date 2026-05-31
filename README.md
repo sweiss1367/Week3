@@ -2,6 +2,12 @@
 
 Graduate Computer Vision Assignment — Artificial Intelligence in Computer Vision
 
+## Demo Video
+
+[![Object Tracking Demo](https://img.youtube.com/vi/gj0mQvpTVE4/0.jpg)](https://youtube.com/shorts/gj0mQvpTVE4)
+
+> Click the thumbnail above to watch the tracked output video on YouTube.
+
 ## Overview
 
 This project implements a prototype object-tracking system that processes a video of a cereal box moving through the frame. It demonstrates two complementary computer vision techniques:
@@ -51,7 +57,7 @@ python week3_object_tracking.py
 | `tracking_midpoint.png` | Frame 185 showing accumulated trajectory lines and current keypoint positions |
 | `tracking_final.png` | Final frame with full trajectory overlay |
 | `trajectory_plot.png` | Matplotlib plot of all keypoint motion paths in pixel-coordinate space |
-| `tracked_output.mp4` | Full processed video with keypoint dots and trajectory lines overlaid |
+| `tracked_output.mp4` | Full processed video with keypoint dots and trajectory lines overlaid — [view on YouTube](https://youtube.com/shorts/gj0mQvpTVE4) |
 
 ## Key Results
 
